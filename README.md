@@ -50,3 +50,9 @@ If you'd like to contribute to this project or report any issues, please create 
 ## License
 
 This project is licensed under a custom license. Please read the LICENSE file for more information.
+
+***
+
+## Steam Workshop
+
+This is also available in Steam Workshop. You can find it here: https://steamcommunity.com/sharedfiles/filedetails/?id=2947252907
