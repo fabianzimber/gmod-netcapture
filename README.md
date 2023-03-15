@@ -1,8 +1,10 @@
 # gmod-netcapture
 Analyze the network load of your Garrys Mod server and find bottlenecks
 
-> #### General Purpose
-> Garry's Mod NetCapture is an addon for Garry's Mod server that allows administrators to monitor network traffic in real-time and capture information for analysis and debugging purposes.
+
+#### General Purpose
+Garry's Mod NetCapture is an addon for Garry's Mod server that allows administrators to monitor network traffic in real-time and capture information for analysis and debugging purposes.
+
 
 > #### Note
 > Please note that this script will temporarly modify the net receiver on your client and can lead to unexpected behaviour.
