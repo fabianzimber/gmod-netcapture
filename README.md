@@ -14,7 +14,7 @@ Garry's Mod NetCapture is an addon for Garry's Mod server that allows administra
 
 ## Installation
 
-1. Download the `gmod_netcapture` folder from this repository.
+1. Download the `netcapture` folder from this repository.
 2. Locate the Garry's Mod server installation directory on your system.
 3. Navigate to the `addons` folder within the Garry's Mod server directory.
 4. Copy the `netcapture` folder into the `addons` folder.
