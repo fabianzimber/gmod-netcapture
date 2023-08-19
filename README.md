@@ -32,9 +32,9 @@ To use the GMod NetCapture addon, follow these steps:
 1. Start your Garry's Mod server.
 2. As an administrator, open the console when you are on the server.
 3. Type the following command to start capturing network traffic:
-> netcapture_start
+> net_capture_start
 4. To stop capturing network traffic, type the following command in the server console:
-> netcapture_stop
+> net_capture_stop
 5. The captured network data will be printed out to your console and also saved to your local `/garrysmod/data` folder (in your local game, not the server).
 
 You can analyze the captured data to troubleshoot any network-related issues or optimize your server performance.
